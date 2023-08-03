@@ -1,2 +1,2 @@
-# Prep-course-Henry
-repositorio de prueba modulo 2
+este es u proyecto de prueba de Ezequiel de como clonar un repositorio desde giuthub
+
